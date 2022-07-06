@@ -2,7 +2,7 @@
 
 This is a newsletter signup form using MailChimp API to collect email addresses for marketing campaigns.<br />
 
-Live demo hosted on heroku:
+Live demo hosted on Heroku:
 https://ancient-oasis-08564.herokuapp.com/<br /><br />
 
 Change these values to your MailChimp information:<br />
