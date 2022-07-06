@@ -1,9 +1,9 @@
 # MailChimpAPIOnHeroku
 
-This is a newsletter signup form using MailChimp API to collect email addresses for marketing campaigns.
+This is a newsletter signup form using MailChimp API to collect email addresses for marketing campaigns.<br />
 
 Live demo hosted on heroku:
-https://ancient-oasis-08564.herokuapp.com/
+https://ancient-oasis-08564.herokuapp.com/<br />
 
 Change these values to your MailChimp information:
 
@@ -11,15 +11,15 @@ const dc = "YOUR_SERVER_LOCATION";
 
 const apiKey = "YOUR_API_KEY";
 
-const list_id = "YOUR_LIST_ID"; 
+const list_id = "YOUR_LIST_ID"; <br />
 
 From the MailChimp docs:
 
 Your dc is in your MailChimp URL:
-https://{dc}.admin.mailchimp.com/
+https://{dc}.admin.mailchimp.com/<br />
 
 Your API key is located at:
-https://{dc}.admin.mailchimp.com/account/api/
+https://{dc}.admin.mailchimp.com/account/api/<br />
 
 Your list ID is located at:
 1) Go to the MailChimp main dashboard.
