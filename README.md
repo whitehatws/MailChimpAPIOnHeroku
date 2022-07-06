@@ -13,10 +13,6 @@ const apiKey = "YOUR_API_KEY";
 
 const list_id = "YOUR_LIST_ID"; 
 
-
-
-
-
 From the MailChimp docs:
 
 Your dc is in your MailChimp URL:
