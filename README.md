@@ -24,3 +24,6 @@ Your list ID is located at:
 4) If you have more than one audience, click the Current audience drop-down and choose the one you want to work with.
 5) Click the Settings drop-down and choose Audience name and defaults.
 6) In the Audience ID section, you’ll see a string of letters and numbers. This is your audience ID.
+
+
+![MailChimpAPIOnHeroku](https://github.com/whitehatws/MailChimpAPIOnHeroku/blob/main/mailChimpAPIScreenshot.png)
