@@ -10,11 +10,11 @@ const dc = "YOUR_SERVER_LOCATION";<br />
 const apiKey = "YOUR_API_KEY";<br />
 const list_id = "YOUR_LIST_ID"; <br />
 
-From the MailChimp docs:
-Your dc is in your MailChimp URL:
+From the MailChimp docs:<br />
+Your dc is in your MailChimp URL:<br />
 https://{dc}.admin.mailchimp.com/<br />
 
-Your API key is located at:
+Your API key is located at:<br />
 https://{dc}.admin.mailchimp.com/account/api/<br />
 
 Your list ID is located at:
