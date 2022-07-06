@@ -6,9 +6,13 @@ Live demo hosted on heroku:
 https://ancient-oasis-08564.herokuapp.com/
 
 Change these values to your MailChimp information:
+
 const dc = "YOUR_SERVER_LOCATION";
+
 const apiKey = "YOUR_API_KEY";
+
 const list_id = "YOUR_LIST_ID"; 
+
 
 From the MailChimp docs:
 
