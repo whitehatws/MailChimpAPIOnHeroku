@@ -5,10 +5,9 @@ This is a newsletter signup form using MailChimp API to collect email addresses 
 Live demo hosted on heroku:
 https://ancient-oasis-08564.herokuapp.com/<br />
 
-Change these values to your MailChimp information:
-
-const dc = "YOUR_SERVER_LOCATION";
-const apiKey = "YOUR_API_KEY";
+Change these values to your MailChimp information:<br />
+const dc = "YOUR_SERVER_LOCATION";<br />
+const apiKey = "YOUR_API_KEY";<br />
 const list_id = "YOUR_LIST_ID"; <br />
 
 From the MailChimp docs:
